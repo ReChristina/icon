@@ -1,0 +1,135 @@
+<svg width="1024" height="640" viewBox="0 0 1024 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="640" fill="url(#pageBg)"/>
+  <ellipse cx="426" cy="452" rx="334" ry="64" fill="#74B8FF" opacity=".13"/>
+  <path d="M0 438 362 552 770 410 373 316 0 438Z" fill="url(#baseTop)" opacity=".9"/>
+  <path d="M0 438 362 552 362 593 0 477V438Z" fill="url(#baseSideLeft)" opacity=".7"/>
+  <path d="M362 552 770 410 770 449 362 593V552Z" fill="url(#baseSideRight)" opacity=".55"/>
+  <path d="M37 412 354 510 710 391 392 321 37 412Z" stroke="#65A9FF" stroke-width="2" opacity=".45"/>
+  <rect x="234" y="403" width="263" height="94" rx="42" fill="url(#stadium)" stroke="#7DB4FF" stroke-width="2"/>
+  <ellipse cx="365" cy="407" rx="96" ry="20" fill="#EEF8FF" stroke="#7DB4FF" stroke-width="3"/>
+  <ellipse cx="365" cy="407" rx="58" ry="10" fill="#0B2F83"/>
+  <path d="M255 447h218M264 461h199M276 474h176" stroke="#0B65F4" stroke-width="4" opacity=".65"/>
+  <g filter="url(#softGlow)">
+    <path d="M103 255c-34 24-56 34-91 25 43-6 55-22 90-47 30 24 48 39 91 45-34 11-60 3-90-23Z" fill="url(#roofBlue)"/>
+    <path d="M105 219c-27 19-44 28-71 21 34-5 43-18 70-37 25 19 39 30 73 36-27 8-49 2-72-20Z" fill="url(#roofBlue)"/>
+    <path d="M108 185c-22 16-37 24-60 19 29-4 37-15 59-31 21 16 34 25 62 30-23 7-42 2-61-18Z" fill="url(#roofBlue)"/>
+    <path d="M109 152c-18 13-30 19-49 16 24-4 30-13 48-26 18 13 28 21 52 25-19 5-34 1-51-15Z" fill="url(#roofBlue)"/>
+    <path d="M66 283h83v83H66z" fill="url(#towerWall)"/>
+    <path d="M77 243h64v40H77z" fill="url(#towerWall)"/>
+    <path d="M83 207h52v36H83z" fill="url(#towerWall)"/>
+    <path d="M89 175h40v32H89z" fill="url(#towerWall)"/>
+    <path d="M96 146h27v29H96z" fill="url(#towerWall)"/>
+  </g>
+  <path d="M126 355c70 16 144 18 218 4l26 45c-102 24-201 19-295-13l51-36Z" fill="url(#gateRoof)"/>
+  <path d="M112 390h212v42H112z" fill="url(#buildingBlue)"/>
+  <path d="M137 383h160v16H137z" fill="#EAF7FF"/>
+  <path d="M138 430h8M163 430h8M188 430h8M213 430h8M238 430h8M263 430h8M288 430h8" stroke="#0D69FF" stroke-width="8"/>
+  <path d="M155 183h4v158h-4z" fill="#2576E9"/>
+  <path d="M147 255c11 11 23 11 35 0" stroke="#74C3FF" stroke-width="3"/>
+  <ellipse cx="157" cy="183" rx="7" ry="3" fill="#2576E9"/>
+  <path d="M148 190h19l-5 12h-9l-5-12Z" fill="url(#spire)"/>
+  <rect x="187" y="176" width="52" height="178" rx="2" fill="url(#glass1)"/>
+  <path d="M192 187h39M192 200h39M192 213h39M192 226h39" stroke="#E7F8FF" stroke-width="2" opacity=".6"/>
+  <path d="M261 124 310 111 310 340 261 353V124Z" fill="url(#glass2)"/>
+  <path d="M310 111 329 131 329 336 310 340V111Z" fill="#9CCBFF" opacity=".65"/>
+  <path d="M261 124 283 142 329 131 310 111 261 124Z" fill="#ECF8FF"/>
+  <path d="M270 167h50M270 229h50M270 294h50" stroke="#5A9DFF" stroke-width="4" opacity=".75"/>
+  <path d="M347 162 386 153 406 341 327 350 347 162Z" fill="url(#glass3)"/>
+  <path d="M358 166c18 55 20 114 8 177" stroke="#E8FAFF" stroke-width="4" opacity=".55"/>
+  <path d="M386 153 406 168 406 341 386 153Z" fill="#0B52E4" opacity=".75"/>
+  <path d="M431 215 487 179 487 352 431 367V215Z" fill="url(#glass4)"/>
+  <path d="M442 226v123M456 217v129M471 204v135" stroke="#DDF7FF" stroke-width="3" opacity=".7"/>
+  <path d="M513 257c19 30 30 70 4 105-29-27-30-66-4-105Z" fill="url(#bottle)"/>
+  <rect x="509" y="232" width="13" height="28" rx="3" fill="url(#bottle)"/>
+  <ellipse cx="516" cy="232" rx="9" ry="3" fill="#E8FBFF" stroke="#226AE7" stroke-width="2"/>
+  <path d="M556 353 651 326 734 363 634 398 556 353Z" fill="url(#museumTop)"/>
+  <path d="M556 353 634 398v50l-78-45v-50Z" fill="#2777F0" opacity=".65"/>
+  <path d="M634 398 734 363v49l-100 36v-50Z" fill="#A7E8FF" opacity=".65"/>
+  <path d="M580 377h88M603 390h80M627 403h44" stroke="#0F5CEA" stroke-width="5" opacity=".7"/>
+  <path d="M761 334c58 18 113 15 166-4l15 26c-67 26-132 28-196 1l15-23Z" fill="url(#roofBlue)"/>
+  <rect x="775" y="354" width="137" height="55" fill="url(#buildingBlue)"/>
+  <path d="M797 409v-42M835 409v-42M875 409v-42" stroke="#F3FFFF" stroke-width="8" opacity=".75"/>
+  <defs>
+    <linearGradient id="pageBg" x1="84" y1="584" x2="892" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF7FF"/>
+      <stop offset=".44" stop-color="#F8FDFF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="baseTop" x1="126" y1="357" x2="431" y2="562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FFFF"/>
+      <stop offset=".45" stop-color="#CFEAFF"/>
+      <stop offset="1" stop-color="#36D6E9"/>
+    </linearGradient>
+    <linearGradient id="baseSideLeft" x1="26" y1="451" x2="336" y2="582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FD3FF"/>
+      <stop offset="1" stop-color="#0575FF"/>
+    </linearGradient>
+    <linearGradient id="baseSideRight" x1="427" y1="535" x2="728" y2="414" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D8E5"/>
+      <stop offset="1" stop-color="#EAF8FF"/>
+    </linearGradient>
+    <linearGradient id="stadium" x1="248" y1="396" x2="443" y2="504" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FFFF"/>
+      <stop offset=".55" stop-color="#B9E9FF"/>
+      <stop offset="1" stop-color="#4C94FF"/>
+    </linearGradient>
+    <linearGradient id="roofBlue" x1="79" y1="142" x2="171" y2="274" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9FCFF"/>
+      <stop offset=".35" stop-color="#2B87FF"/>
+      <stop offset="1" stop-color="#001F9C"/>
+    </linearGradient>
+    <linearGradient id="towerWall" x1="74" y1="146" x2="150" y2="366" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DFFFFF"/>
+      <stop offset=".48" stop-color="#68BFFF"/>
+      <stop offset="1" stop-color="#093FD0"/>
+    </linearGradient>
+    <linearGradient id="gateRoof" x1="74" y1="358" x2="361" y2="398" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#001E9B"/>
+      <stop offset=".38" stop-color="#1778FF"/>
+      <stop offset="1" stop-color="#E8FAFF"/>
+    </linearGradient>
+    <linearGradient id="buildingBlue" x1="112" y1="354" x2="283" y2="442" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDFDFE"/>
+      <stop offset=".54" stop-color="#5DB6FF"/>
+      <stop offset="1" stop-color="#0A4DE6"/>
+    </linearGradient>
+    <linearGradient id="spire" x1="147" y1="190" x2="167" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6FFFF"/>
+      <stop offset="1" stop-color="#0A60E8"/>
+    </linearGradient>
+    <linearGradient id="glass1" x1="187" y1="176" x2="252" y2="354" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF9FF"/>
+      <stop offset=".65" stop-color="#70DFFF"/>
+      <stop offset="1" stop-color="#0A56E8"/>
+    </linearGradient>
+    <linearGradient id="glass2" x1="261" y1="111" x2="327" y2="349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDF9FF"/>
+      <stop offset=".58" stop-color="#8AC0FF"/>
+      <stop offset="1" stop-color="#0468FF"/>
+    </linearGradient>
+    <linearGradient id="glass3" x1="327" y1="153" x2="418" y2="341" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4FFFF"/>
+      <stop offset=".25" stop-color="#073DE8"/>
+      <stop offset=".68" stop-color="#21D7EE"/>
+      <stop offset="1" stop-color="#1664FF"/>
+    </linearGradient>
+    <linearGradient id="glass4" x1="431" y1="179" x2="499" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FFFF"/>
+      <stop offset=".53" stop-color="#8FD4FF"/>
+      <stop offset="1" stop-color="#0D65EA"/>
+    </linearGradient>
+    <linearGradient id="bottle" x1="502" y1="232" x2="550" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FFFF"/>
+      <stop offset=".42" stop-color="#013FD8"/>
+      <stop offset="1" stop-color="#93F4FF"/>
+    </linearGradient>
+    <linearGradient id="museumTop" x1="556" y1="326" x2="734" y2="398" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFFFFF"/>
+      <stop offset=".35" stop-color="#176EFF"/>
+      <stop offset="1" stop-color="#DDF9FF"/>
+    </linearGradient>
+    <filter id="softGlow" x="0" y="132" width="204" height="248" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#1478FF" flood-opacity=".32"/>
+    </filter>
+  </defs>
+</svg>
